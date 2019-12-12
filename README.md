@@ -12,6 +12,6 @@ You get home after a long day at work. You're starving. You can't think straight
 -Stretch Goal: User Functionality to save recipes and ingredient lists
 
 ## Team
--[Kevin Patel](https://kevinpatel.ca/)
--[Brody Currie](https://brodycurrie.com/)
--[Corey Crosby](https://github.com/coreycrosby)
+- [Kevin Patel](https://kevinpatel.ca/)
+- [Brody Currie](https://brodycurrie.com/)
+- [Corey Crosby](https://github.com/coreycrosby)
